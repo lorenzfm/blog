@@ -1,9 +1,9 @@
 # Site Info
-title:              "Izzy's Blog"
+title:              "Ezzy's Blog"
 description:        "Here is my blog about my drawings, plushies, and other interests."
 
 # Author Info
-author_name:        IzzyFM
+author_name:        EzzyFM
 
 # Site Settings
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
@@ -21,7 +21,7 @@ paginate: 5
 disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: izzyfm
+    shortname: ezzyfm
     
 # Site Build
 highlighter: rouge
